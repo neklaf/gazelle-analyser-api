@@ -1,0 +1,24 @@
+{
+  "name": "gazelle-analyser-api",
+  "version": "0.0.1",
+  "description": "Application that provides the analysis capabilities needed to implement The Gazelle Project strategy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsampayo/gazelle-analyser-api.git"
+  },
+  "author": "Jose M. Sampayo <j.m.sampayo@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmsampayo/gazelle-analyser-api/issues"
+  },
+  "homepage": "https://github.com/jmsampayo/gazelle-analyser-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pino": "^5.16.0",
+    "pino-pretty": "^3.6.0"
+  }
+}
